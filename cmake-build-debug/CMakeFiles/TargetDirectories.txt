@@ -1,0 +1,3 @@
+C:/Users/kneiv/CLionProjects/stock-market-app/cmake-build-debug/CMakeFiles/stock_market_app.dir
+C:/Users/kneiv/CLionProjects/stock-market-app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kneiv/CLionProjects/stock-market-app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
